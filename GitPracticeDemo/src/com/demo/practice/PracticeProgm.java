@@ -25,6 +25,7 @@ class Demo {
 		c.m2();
 		c.m1();
 		System.out.println("Hello");
+		System.out.println("Hi");
 		//t.m3();
 	}
 }
